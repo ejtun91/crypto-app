@@ -37,7 +37,7 @@ const Banner = () => {
               fontFamily: "Montserrat",
             }}
           >
-            Crypto App
+            Crypto Track
           </Typography>
           <Typography
             variant="subtitle2"

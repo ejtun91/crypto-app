@@ -50,7 +50,7 @@ const Header = () => {
               onClick={() => navigate("/")}
               className={classes.title}
             >
-              Crypto App
+              Crypto Track
             </Typography>
             <Select
               variant="outlined"
